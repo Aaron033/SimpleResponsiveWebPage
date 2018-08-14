@@ -1,2 +1,0 @@
-# SimpleResponsiveWebPage
-Responsive article 
